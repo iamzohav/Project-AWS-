@@ -8,7 +8,7 @@ body {
 }
 
 header {
-  background-color: #4CAF50;
+  background-color: #87CEEB;
   color: white;
   text-align: center;
   padding: 20px 0;
@@ -32,7 +32,7 @@ section {
 }
 
 h2 {
-  border-bottom: 2px solid #4CAF50;
+  border-bottom: 2px solid #87CEEB;
   padding-bottom: 5px;
 }
 
@@ -46,7 +46,7 @@ h2 {
 
 #upload button {
   padding: 10px 20px;
-  background-color: #4CAF50;
+  background-color: #87CEEB;
   color: white;
   border: none;
   border-radius: 5px;
@@ -54,7 +54,7 @@ h2 {
 }
 
 #upload button:hover {
-  background-color: #45a049;
+  background-color: #76B4D2;
 }
 
 #gallery {
@@ -74,6 +74,6 @@ h2 {
 footer {
   text-align: center;
   padding: 15px;
-  background-color: #4CAF50;
+  background-color: #87CEEB;
   color: white;
 }
